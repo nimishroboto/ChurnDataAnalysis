@@ -55,12 +55,14 @@ Analysis of customer churn patterns across different contract types (Month-to-mo
 ### 2. **Gender-Based Churn Distribution**
 Comprehensive breakdown of customer retention by gender, showing both churned and retained customers with exact counts.
 
-![Gender-Based Churn Analysis](CleanShot-2025-08-13-at-09.57.41-2x.jpg)
+<img width="1786" height="1174" alt="CleanShot 2025-08-13 at 09 57 41@2x" src="https://github.com/user-attachments/assets/a8de941a-b86d-484b-9b35-e22d4cd7e934" />
+
 
 ### 3. **Customer Tenure Risk Analysis**
 Critical visualization highlighting the high-risk period (0-3 years) where most customer churn occurs, with detailed tenure distribution.
 
-![Tenure Risk Analysis](CleanShot-2025-08-13-at-09.57.28-2x.jpg)
+<img width="1750" height="1162" alt="CleanShot 2025-08-13 at 09 57 28@2x" src="https://github.com/user-attachments/assets/ff97035a-dfaf-4ad1-bde0-cf3dfb9146af" />
+
 
 ## 📊 Key Visual Insights
 
