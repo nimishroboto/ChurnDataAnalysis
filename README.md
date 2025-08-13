@@ -49,8 +49,8 @@ This project provides comprehensive customer churn analysis for a mobile data/ne
 
 ### 1. **Contract Type Analysis**
 Analysis of customer churn patterns across different contract types (Month-to-month, One year, Two year) with clear visualization of retention rates.
+<img width="1416" height="1054" alt="CleanShot 2025-08-13 at 09 57 55@2x" src="https://github.com/user-attachments/assets/a401645a-a13b-40a5-a3aa-46d05eef9093" />
 
-![Contract Type Churn Analysis](CleanShot-2025-08-13-at-09.57.55-2x.jpg)
 
 ### 2. **Gender-Based Churn Distribution**
 Comprehensive breakdown of customer retention by gender, showing both churned and retained customers with exact counts.
